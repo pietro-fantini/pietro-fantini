@@ -11,15 +11,15 @@ I'm a data passionate with a love for creating innovative solutions. Here's a bi
 ## My Projects
 Here are some of the projects I've worked on:
 
-### [Gazette Automated Summary](https://github.com/pietro-fantini/summary_PDF))
+### [Gazette Automated Summary](https://github.com/pietro-fantini/summary_PDF)
 - **Description**: Brief description of the project.
 - **Technologies Used**: List of technologies.
 
-### [Google Trends Visualizer](https://github.com/pietro-fantini/Google_Trend))
+### [Google Trends Visualizer](https://github.com/pietro-fantini/Google_Trend)
 - **Description**: Brief description of the project.
 - **Technologies Used**: List of technologies.
 
-### [Earthquake Heatmap](https://github.com/pietro-fantini/Earthquake_Heatmap))
+### [Earthquake Heatmap](https://github.com/pietro-fantini/Earthquake_Heatmap)
 - **Description**: Brief description of the project.
 - **Technologies Used**: List of technologies.
 
