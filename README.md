@@ -30,7 +30,7 @@ Here are some of the projects I've worked on:
 - **Description**: Created a dashboard to visualize forecast and historical trend of the main cost drivers to give vendor managers a tool to negotiate with request backed with reliable data.
 - **Technologies Used**: Quicksight.
 
-- ### [Financial Dashboard](https://github.com/pietro-fantini/Financial-Dashboard)
+### [Financial Dashboard](https://github.com/pietro-fantini/Financial-Dashboard)
 - **Description**: Created a dashboard to visualize financial data of the whole company.
 - **Technologies Used**: Excel, Power BI.
 
