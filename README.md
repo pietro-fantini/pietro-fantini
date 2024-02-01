@@ -12,7 +12,7 @@ I'm a data passionate with a love for creating innovative solutions. Here's a bi
 ## My Projects
 Here are some of the projects I've worked on:
 
-### [Gazette Automated Summary](https://github.com/pietro-fantini/summary_PDF)
+### [Gazette Automated Summary](https://github.com/pietro-fantini/Gazette-Automated-Summary)
 - **Idea**: Create a centrified platform where construction companies can navigate through all the public contracts (WIP).
 - **Flow of work**:
     1. Automatically download the gazette PDF from the regional website when a new one is available.
