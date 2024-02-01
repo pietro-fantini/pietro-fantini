@@ -43,11 +43,11 @@ Here are some of the projects I've worked on:
 - **Technologies Used**: Python, Javascript, CSS, Google Trend API.
 
 ### [Hovenring Brige - FEM Analysis](https://github.com/pietro-fantini/Hovenring_Bridge_FEM_Analysis)
-- **Description**: University project on performing a FEM analysis and plotting the mode of motion of the Dutch Hovenring Bridge.
+- **Description**: University project on performing a FEM analysis and plotting the mode of vibration of the Dutch Hovenring Bridge.
 - **Technologies Used**: Matlab.
 
 ### [Catenary structure - FEM Analysis](https://github.com/pietro-fantini/Structure_FEM_Analysis)
-- **Description**: University project on performing a FEM analysis and plotting the mode of motion of a structure.
+- **Description**: University project on performing a FEM analysis and plotting the mode of vibration of a structure.
 - **Technologies Used**: Matlab.
 
 ### [Earthquake Heatmap](https://github.com/pietro-fantini/Earthquake_Heatmap)
