@@ -13,24 +13,30 @@ I'm a data passionate with a love for creating innovative solutions. Here's a bi
 Here are some of the projects I've worked on:
 
 ### [Gazette Automated Summary](https://github.com/pietro-fantini/summary_PDF)
-- **Description**: Create a centrified platform where construction companies can navigate all the public contracts (WIP).
+- **Idea**: Create a centrified platform where construction companies can navigate all the public contracts (WIP).
+- **Flow of work**:
+    1. Automatically download the gazette PDF from the regional website when a new one is available.
+    2. Call a ChatGPT API to summarize the PDF, retrieving for every tender the main data.
+    3. Store the data in a AWS server.
+    4. Feed the data to a Quicksight dashboard.
+    5. Embed the dashboard to a web platform.
 - **Technologies Used**: Python, ChatGPT API.
 
 ### [Google Trends Visualizer](https://github.com/pietro-fantini/Google_Trend)
 - **Description**: Fun project to implement Google Trend API creating a local sever and a simple user interface to interact with it.
 - **Technologies Used**: Python, Javascript, CSS, Google Trend API.
 
-### [Hovenring Brige - FEM Analysis](https://github.com/pietro-fantini/Earthquake_Heatmap)
+### [Hovenring Brige - FEM Analysis](https://github.com/pietro-fantini/Hovenring_Bridge_FEM_Analysis)
 - **Description**: University project on performing a FEM analysis and plotting the mode of motion of the Dutch Hovenring Bridge.
 - **Technologies Used**: Matlab.
 
-### [Catenary structure - FEM Analysis](https://github.com/pietro-fantini/Earthquake_Heatmap)
+### [Catenary structure - FEM Analysis](https://github.com/pietro-fantini/Structure_FEM_Analysis)
 - **Description**: University project on performing a FEM analysis and plotting the mode of motion of a structure.
 - **Technologies Used**: Matlab.
 
 ### [Earthquake Heatmap](https://github.com/pietro-fantini/Earthquake_Heatmap)
 - **Description**: Fun project on implementing an heatmap Python library to visualize a dataset.
-- **Technologies Used**: Python, .
+- **Technologies Used**: Python.
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/pietrofantini/)
