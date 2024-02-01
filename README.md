@@ -22,8 +22,8 @@ Here are some of the projects I've worked on:
     5. Embed the dashboard to a web platform the user as access to.
 - **Technologies Used**: Python, ChatGPT API.
 
-### Distributors Profitability Dashboard
-- **Description**:
+### [Distributors Profitability Dashboard](https://github.com/pietro-fantini/Distributors-Profitability-Dashboard)
+- **Description**: Created a data pipeline ending in a dashboard to improve the profitability of the sourcing decision.
 - **Technologies Used**: Amazon Redshift, ETL, SQL, Quicksight.
 
 ### [Cost Drivers Dashboard](https://github.com/pietro-fantini/Cost-Drivers-Dashboard)
