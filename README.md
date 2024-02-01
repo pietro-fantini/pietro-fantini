@@ -20,13 +20,13 @@ Here are some of the projects I've worked on:
 - **Description**: Fun project to implement Google Trend API creating a local sever and a simple user interface to interact with it.
 - **Technologies Used**: Python, Javascript, CSS, Google Trend API.
 
-### [Earthquake Heatmap](https://github.com/pietro-fantini/Earthquake_Heatmap)
-- **Description**: Fun project on implementation of heatmap Python library to visualize a dataset.
-- **Technologies Used**: Python, .
+### [Hovenring Brige - FEM Analysis](https://github.com/pietro-fantini/Earthquake_Heatmap)
+- **Description**: University project on performing a FEM analysis and plotting the mode of motion of the Dutch Hovenring Bridge.
+- **Technologies Used**: Matlab.
 
-### [Earthquake Heatmap](https://github.com/pietro-fantini/Earthquake_Heatmap)
-- **Description**: Fun project on implementation of heatmap Python library to visualize a dataset.
-- **Technologies Used**: Python, .
+### [Catenary structure - FEM Analysis](https://github.com/pietro-fantini/Earthquake_Heatmap)
+- **Description**: University project on performing a FEM analysis and plotting the mode of motion of a structure.
+- **Technologies Used**: Matlab.
 
 ### [Earthquake Heatmap](https://github.com/pietro-fantini/Earthquake_Heatmap)
 - **Description**: Fun project on implementing an heatmap Python library to visualize a dataset.
