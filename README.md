@@ -26,7 +26,7 @@ Here are some of the projects I've worked on:
 - **Description**:
 - **Technologies Used**: Amazon Redshift, ETL, SQL, Quicksight.
 
-### Cost Drivers Dashboard
+### [Cost Drivers Dashboard](https://github.com/pietro-fantini/Cost-Drivers-Dashboard)
 - **Description**:
 - **Technologies Used**: Quicksight.
 
