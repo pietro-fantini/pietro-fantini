@@ -3,25 +3,34 @@
 ## About Me
 I'm a data passionate with a love for creating innovative solutions. Here's a bit more about me:
 
+- 🚀 Amazon Product Manager Intern.
 - 🎓 M.Sc. Mechanical Engineering Politecnico di Milano graduate.
 - 🔭 I’m currently working on automatizing how construction companies get informed about new laws and announcements.
 - 🌱 I’m currently learning Flutter to better put in place my ideas agily.
-- ⚡ I'm an amateur chess player, find me on Chess.com: terpi98.
+- ⚡ I'm an amateur chess player, find me on Chess.com "terpi98".
 
 ## My Projects
 Here are some of the projects I've worked on:
 
 ### [Gazette Automated Summary](https://github.com/pietro-fantini/summary_PDF)
-- **Description**: Brief description of the project.
-- **Technologies Used**: List of technologies.
+- **Description**: Create a centrified platform where construction companies can navigate all the public contracts (WIP).
+- **Technologies Used**: Python, ChatGPT API.
 
 ### [Google Trends Visualizer](https://github.com/pietro-fantini/Google_Trend)
-- **Description**: Brief description of the project.
-- **Technologies Used**: List of technologies.
+- **Description**: Fun project to implement Google Trend API creating a local sever and a simple user interface to interact with it.
+- **Technologies Used**: Python, Javascript, CSS, Google Trend API.
 
 ### [Earthquake Heatmap](https://github.com/pietro-fantini/Earthquake_Heatmap)
-- **Description**: Brief description of the project.
-- **Technologies Used**: List of technologies.
+- **Description**: Fun project on implementation of heatmap Python library to visualize a dataset.
+- **Technologies Used**: Python, .
+
+### [Earthquake Heatmap](https://github.com/pietro-fantini/Earthquake_Heatmap)
+- **Description**: Fun project on implementation of heatmap Python library to visualize a dataset.
+- **Technologies Used**: Python, .
+
+### [Earthquake Heatmap](https://github.com/pietro-fantini/Earthquake_Heatmap)
+- **Description**: Fun project on implementing an heatmap Python library to visualize a dataset.
+- **Technologies Used**: Python, .
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/pietrofantini/)
