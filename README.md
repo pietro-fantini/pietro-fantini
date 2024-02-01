@@ -30,8 +30,8 @@ Here are some of the projects I've worked on:
 - **Description**: Created a dashboard to visualize forecast and historical trend of the main cost drivers to give vendor managers a tool to negotiate with request backed with reliable data.
 - **Technologies Used**: Quicksight.
 
-### Automated financial report
-- **Description**:
+### [Automated financial report](https://github.com/pietro-fantini/Automated-financial-report)
+- **Description**: Automated the weekly financial report, saving senior management 1.5 hours of manual work every week.
 - **Technologies Used**: Excel VBA.
 
 ### [Google Trends Visualizer](https://github.com/pietro-fantini/Google_Trend)
