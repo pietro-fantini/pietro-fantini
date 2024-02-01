@@ -13,14 +13,26 @@ I'm a data passionate with a love for creating innovative solutions. Here's a bi
 Here are some of the projects I've worked on:
 
 ### [Gazette Automated Summary](https://github.com/pietro-fantini/summary_PDF)
-- **Idea**: Create a centrified platform where construction companies can navigate all the public contracts (WIP).
+- **Idea**: Create a centrified platform where construction companies can navigate through all the public contracts (WIP).
 - **Flow of work**:
     1. Automatically download the gazette PDF from the regional website when a new one is available.
     2. Call a ChatGPT API to summarize the PDF, retrieving for every tender the main data.
     3. Store the data in a AWS server.
     4. Feed the data to a Quicksight dashboard.
-    5. Embed the dashboard to a web platform.
+    5. Embed the dashboard to a web platform the user as access to.
 - **Technologies Used**: Python, ChatGPT API.
+
+### Distributors Profitability Dashboard
+- **Description**:
+- **Technologies Used**: Amazon Redshift, ETL, SQL, Quicksight.
+
+### Cost Drivers Dashboard
+- **Description**:
+- **Technologies Used**: Quicksight.
+
+### Automated financial report
+- **Description**:
+- **Technologies Used**: Excel VBA.
 
 ### [Google Trends Visualizer](https://github.com/pietro-fantini/Google_Trend)
 - **Description**: Fun project to implement Google Trend API creating a local sever and a simple user interface to interact with it.
