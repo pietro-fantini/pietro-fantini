@@ -42,6 +42,10 @@ Here are some of the projects I've worked on:
 - **Description**: Fun project to implement Google Trend API creating a local sever and a simple user interface to interact with it.
 - **Technologies Used**: Python, Javascript, CSS, Google Trend API.
 
+### [Stock Trend](https://github.com/pietro-fantini/stock-trend)
+- **Description**: Fun project to implement Alphavantage API to get stock trend raw data.
+- **Technologies Used**: Python, Alphavantage API.
+
 ### [Hovenring Brige - FEM Analysis](https://github.com/pietro-fantini/Hovenring_Bridge_FEM_Analysis)
 - **Description**: University project on performing a FEM analysis and plotting the mode of vibration of the Dutch Hovenring Bridge.
 - **Technologies Used**: Matlab.
