@@ -26,6 +26,10 @@ Here are some of the projects I've worked on:
 - **Description**: Created a data pipeline ending in a dashboard to improve the profitability of the sourcing decision.
 - **Technologies Used**: Amazon Redshift, ETL, SQL, Quicksight.
 
+### [Mobile App Usage Analysis]([https://github.com/pietro-fantini/Distributors-Profitability-Dashboard](https://github.com/pietro-fantini/mobile-app-analysis))
+- **Description**: Created a data pipeline ending in a Google Looker report to analyze mobile app data.
+- **Technologies Used**: Python, Google Big Query, Google Cloud Console, SQL, Google Looker Studio, generative AI.
+
 ### [Cost Drivers Dashboard](https://github.com/pietro-fantini/Cost-Drivers-Dashboard)
 - **Description**: Created a dashboard to visualize forecast and historical trend of the main cost drivers to give vendor managers a tool to negotiate with request backed with reliable data.
 - **Technologies Used**: Quicksight.
@@ -36,7 +40,7 @@ Here are some of the projects I've worked on:
 
 ### [Automated financial report](https://github.com/pietro-fantini/Automated-financial-report)
 - **Description**: Automated the weekly financial report, saving senior management 1.5 hours of manual work every week.
-- **Technologies Used**: Excel VBA.
+- **Technologies Used**: Amazon Redshift, Quicksight, SQL, ETL manager, Excel VBA.
 
 ### [Google Trends Visualizer](https://github.com/pietro-fantini/Google_Trend)
 - **Description**: Fun project to implement Google Trend API creating a local sever and a simple user interface to interact with it.
