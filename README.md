@@ -13,37 +13,37 @@ I'm a data passionate with a love for creating innovative solutions. Here's a bi
 Here are some of the projects I've worked on:
 
 ### [Gazette Automated Summary](https://github.com/pietro-fantini/Gazette-Automated-Summary)
-- **Idea**: Create a centrified platform where construction companies can navigate through all the public contracts (WIP).
+- **Idea**: Create a **central platform** where construction companies can navigate through all the public contracts (WIP).
 - **Flow of work**:
     1. Automatically download the gazette PDF from the regional website when a new one is available.
-    2. Call a ChatGPT API to summarize the PDF, retrieving for every tender the main data.
-    3. Store the data in a AWS server.
-    4. Feed the data to a Quicksight dashboard.
+    2. Call a **ChatGPT API** to summarize the PDF, retrieving for every tender the main data.
+    3. Store the data in a **Cloud service**.
+    4. Feed the data to a **Quicksight dashboard**.
     5. Embed the dashboard to a web platform the user as access to.
 - **Technologies Used**: Python, ChatGPT API.
 
 ### [Distributors Profitability Dashboard](https://github.com/pietro-fantini/Distributors-Profitability-Dashboard)
-- **Description**: Created a data pipeline ending in a dashboard to improve the profitability of the sourcing decision.
+- **Description**: Created a **data pipeline** ending in a dashboard to improve the profitability of the sourcing decision.
 - **Technologies Used**: Amazon Redshift, ETL manager, SQL, Quicksight.
 
 ### [Mobile App Usage Analysis](https://github.com/pietro-fantini/mobile-app-analysis)
-- **Description**: Created a data pipeline ending in a Google Looker report to analyze mobile app data.
+- **Description**: Created a **data pipeline** ending in a Google Looker report to analyze mobile app data.
 - **Technologies Used**: Python, Google Big Query, Google Cloud Console, SQL, Google Looker Studio, generative AI.
 
 ### [Cost Drivers Dashboard](https://github.com/pietro-fantini/Cost-Drivers-Dashboard)
-- **Description**: Created a dashboard to visualize forecast and historical trend of the main cost drivers to give vendor managers a tool to negotiate with request backed with reliable data.
+- **Description**: Created a **dashboard** to visualize forecast and historical trend of the main cost drivers to give vendor managers a tool to negotiate with request backed with reliable data.
 - **Technologies Used**: Quicksight.
 
 ### [Financial Dashboard](https://github.com/pietro-fantini/Financial-Dashboard)
-- **Description**: Created a dashboard to visualize financial data of the whole company.
+- **Description**: Created a **dashboard** to visualize financial data of the whole company.
 - **Technologies Used**: Excel, Power BI.
 
 ### [Automated financial report](https://github.com/pietro-fantini/Automated-financial-report)
-- **Description**: Automated the weekly financial report, saving senior management 1.5 hours of manual work every week.
+- **Description**: **Automated** the weekly financial report, saving senior management 1.5 hours of manual work every week.
 - **Technologies Used**: Amazon Redshift, Quicksight, SQL, ETL manager, Excel VBA.
 
 ### [Google Trends Visualizer](https://github.com/pietro-fantini/Google_Trend)
-- **Description**: Fun project to implement Google Trend API creating a local sever and a simple user interface to interact with it.
+- **Description**: Fun project to implement **Google Trend API** creating a local sever and a simple user interface to interact with it.
 - **Technologies Used**: Python, Javascript, CSS, Google Trend API.
 
 ### [Stock Trend](https://github.com/pietro-fantini/stock-trend)
