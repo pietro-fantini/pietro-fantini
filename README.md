@@ -24,7 +24,7 @@ Here are some of the projects I've worked on:
 
 ### [Distributors Profitability Dashboard](https://github.com/pietro-fantini/Distributors-Profitability-Dashboard)
 - **Description**: Created a data pipeline ending in a dashboard to improve the profitability of the sourcing decision.
-- **Technologies Used**: Amazon Redshift, ETL, SQL, Quicksight.
+- **Technologies Used**: Amazon Redshift, ETL manager, SQL, Quicksight.
 
 ### [Mobile App Usage Analysis]([https://github.com/pietro-fantini/Distributors-Profitability-Dashboard](https://github.com/pietro-fantini/mobile-app-analysis))
 - **Description**: Created a data pipeline ending in a Google Looker report to analyze mobile app data.
