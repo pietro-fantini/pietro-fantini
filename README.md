@@ -26,7 +26,7 @@ Here are some of the projects I've worked on:
 - **Description**: Created a data pipeline ending in a dashboard to improve the profitability of the sourcing decision.
 - **Technologies Used**: Amazon Redshift, ETL manager, SQL, Quicksight.
 
-### [Mobile App Usage Analysis]([https://github.com/pietro-fantini/Distributors-Profitability-Dashboard](https://github.com/pietro-fantini/mobile-app-analysis))
+### [Mobile App Usage Analysis](https://github.com/pietro-fantini/mobile-app-analysis)
 - **Description**: Created a data pipeline ending in a Google Looker report to analyze mobile app data.
 - **Technologies Used**: Python, Google Big Query, Google Cloud Console, SQL, Google Looker Studio, generative AI.
 
