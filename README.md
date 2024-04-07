@@ -5,7 +5,6 @@ I'm a data passionate with a love for creating innovative solutions. Here's a bi
 
 - 🚀 Product Manager Intern @Amazon.
 - 🎓 M.Sc. Mechanical Engineering Politecnico di Milano graduate.
-- 🔭 I’m currently working on automatizing how construction companies get informed about new laws and announcements.
 - 🌱 I’m currently learning Flutter to better put in place my ideas agily.
 - ⚡ I'm an amateur chess player, find me on Chess.com "terpi98".
 
