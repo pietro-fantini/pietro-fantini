@@ -3,7 +3,7 @@
 ## About Me
 I'm a data passionate with a love for creating innovative solutions. Here's a bit more about me:
 
-- 🚀 Product Manager Intern @Amazon.
+- 🚀 Ex Product Manager Intern @Amazon.
 - 🎓 M.Sc. Mechanical Engineering Politecnico di Milano graduate.
 - ⚡ I'm an amateur chess player, find me on Chess.com "terpi98".
 
