@@ -5,14 +5,13 @@ I'm a data passionate with a love for creating innovative solutions. Here's a bi
 
 - 🚀 Product Manager Intern @Amazon.
 - 🎓 M.Sc. Mechanical Engineering Politecnico di Milano graduate.
-- 🌱 I’m currently learning Flutter to better put in place my ideas agily.
 - ⚡ I'm an amateur chess player, find me on Chess.com "terpi98".
 
 ## My Projects
 Here are some of the projects I've worked on:
 
-### [Gazette Automated Summary](https://github.com/pietro-fantini/Gazette-Automated-Summary)
-- **Idea**: Create a **central platform** where construction companies can navigate through all the public contracts (WIP).
+### [Gazette Automated Summary](https://github.com/pietro-fantini/Gazette-Automated-Summary) (WIP)
+- **Idea**: Create a **central platform** where construction companies can navigate through all the public contracts.
 - **Flow of work**:
     1. Automatically download the gazette PDF from the regional website when a new one is available.
     2. Call a **ChatGPT API** to summarize the PDF, retrieving for every tender the main data.
