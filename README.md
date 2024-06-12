@@ -14,11 +14,19 @@ Here are some of the projects I've worked on:
 - **Idea**: Create a **central platform** where construction companies can navigate through all the public contracts.
 - **Flow of work**:
     1. Automatically download the gazette PDF from the regional website when a new one is available.
-    2. Call a **ChatGPT API** to summarize the PDF, retrieving for every tender the main data.
+    2. Call a **OpenAI API** to summarize the PDF, retrieving for every tender the main data.
     3. Store the data in a **Cloud service**.
     4. Feed the data to a **Quicksight dashboard**.
     5. Embed the dashboard to a web platform the user as access to.
 - **Technologies Used**: Python, OpenAI API.
+
+### [AI Product Suggest]((https://aiproductsuggest.com/))
+- **Description**: Developed a website that uses AI to suggest a laptop based on users input and provides an Amazon affiliate link to buy it. [The app]((https://aiproductsuggest.com/)).
+- **Technologies Used**: React, Next.JS, Javascript, HTML, CSS, MongoDB, OpenAI API, Amazon API.
+
+### [Recipe Generator](https://github.com/pietro-fantini/recipegenerator)
+- **Description**: Fun project. Connected OpenAI API to a simple front-end to guide users to the generation of a recipe based on available ingredients, time and complexity. [The app]([https://recipetrovartis.web.app/](https://recipetrovartisv4.web.app/)).
+- **Technologies Used**: Flutter, Firebase, OpenAI API.
 
 ### [Distributors Profitability Dashboard](https://github.com/pietro-fantini/Distributors-Profitability-Dashboard)
 - **Description**: Created a **data pipeline** ending in a dashboard to improve the profitability of the sourcing decision.
@@ -27,10 +35,6 @@ Here are some of the projects I've worked on:
 ### [Mobile App Usage Analysis](https://github.com/pietro-fantini/mobile-app-analysis)
 - **Description**: Created a **data pipeline** ending in a Google Looker report to analyze mobile app data.
 - **Technologies Used**: Python, Google Big Query, Google Cloud Console, SQL, Google Looker Studio, generative AI.
-
-### [Recipe Generator](https://github.com/pietro-fantini/recipegenerator)
-- **Description**: Fun project. Connected OpenAI API to a simple front-end to guide users to the generation of a recipe based on available ingredients, time and complexity. [The app](https://recipetrovartis.web.app/).
-- **Technologies Used**: Flutter, Firebase, OpenAI API.
 
 ### [Cost Drivers Dashboard](https://github.com/pietro-fantini/Cost-Drivers-Dashboard)
 - **Description**: Created a **dashboard** to visualize forecast and historical trend of the main cost drivers to give vendor managers a tool to negotiate with request backed with reliable data.
