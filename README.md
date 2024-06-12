@@ -20,7 +20,7 @@ Here are some of the projects I've worked on:
     5. Embed the dashboard to a web platform the user as access to.
 - **Technologies Used**: Python, OpenAI API.
 
-### [AI Product Suggest]((https://aiproductsuggest.com/))
+### [AI Product Suggest](https://aiproductsuggest.com/)
 - **Description**: Developed a website that uses AI to suggest a laptop based on users input and provides an Amazon affiliate link to buy it. [The app](https://aiproductsuggest.com/).
 - **Technologies Used**: React, Next.JS, Javascript, HTML, CSS, MongoDB, OpenAI API, Amazon API.
 
