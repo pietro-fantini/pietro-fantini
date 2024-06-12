@@ -21,7 +21,7 @@ Here are some of the projects I've worked on:
 - **Technologies Used**: Python, OpenAI API.
 
 ### [AI Product Suggest](https://aiproductsuggest.com/)
-- **Description**: Developed a website that uses AI to suggest a laptop based on users input and provides an Amazon affiliate link to buy it. [The app](https://aiproductsuggest.com/).
+- **Description**: Developed a website that uses AI to suggest a laptop based on users input and provides an Amazon affiliate link to buy it. [The website](https://aiproductsuggest.com/).
 - **Technologies Used**: React, Next.JS, Javascript, HTML, CSS, MongoDB, OpenAI API, Amazon API.
 
 ### [Recipe Generator](https://github.com/pietro-fantini/recipegenerator)
